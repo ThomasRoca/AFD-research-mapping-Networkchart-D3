@@ -8,3 +8,6 @@ e.g. a research project lead by a Team composed from 3 directions: CEFEB,DOE,ERS
 The data is available in a text file in this repository
 
 <a href="http://stats4dev.com/test/networkchart.html" target="_blank">Link to the resulting data viz</a>
+
+Image of the dataviz:
+![](Network Graph.PNG)
