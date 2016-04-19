@@ -1,5 +1,5 @@
-# AFD-research-mapping-Networkchart-D3
-This repository contains Python script to build a networkchart using D3js
+# Mapping AFD research collaboration using Networkchart-D3
+This repository contains Python script (Network Graph AFD research.ipynb) to build a networkchart using D3js
 It aims at mapping research collaboration among Agence Française de Dévelopment's divisions.
 Research project can involve sevetal departments of AFD (up to 5). As we wanted to map bilateral collaboration, we decomposed team using permetation. for this we use Python itertools that allow display permutations.
 e.g. a research project lead by a Team composed from 3 directions: CEFEB,DOE,ERS will end up being 3 bilateral collaborations 
