@@ -8,4 +8,4 @@ e.g. a research project lead by a Team composed from 3 directions: CEFEB,DOE,ERS
 The data is available in a text file in this repository
 
 Here is the resulting data viz:
-<iframe src="https://raw.githubusercontent.com/ThomasRoca/AFD-research-mapping-Networkchart-D3/master/networkchart.html" scrolling="no" frameborder="0" width="100%" height="900px"></iframe>
+<iframe src="http://stats4dev.com/test/networkchart.html" scrolling="no" frameborder="0" width="100%" height="900px"></iframe>
